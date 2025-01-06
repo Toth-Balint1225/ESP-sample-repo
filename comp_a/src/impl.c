@@ -3,5 +3,5 @@
 
 void function_a(void)
 {
-    ESP_LOGI("Component A", "This is component A functionallity.");
+    ESP_LOGI("Component A", "This is component A (1.0.1 updated) functionallity.");
 }
