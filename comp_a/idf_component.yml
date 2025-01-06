@@ -1,4 +1,4 @@
-version: "1.0.0"
+version: "1.0.1"
 description: "Testing component A for registry tests"
 url: "https://github.com/Toth-Balint1225/ESP-sample-repo/comp_a"
 repository: "https://github.com/Toth-Balint1225/ESP-sample-repo.git"

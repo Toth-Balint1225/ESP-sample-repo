@@ -1,6 +1,6 @@
-#ifndef INTERFACE_A_H
-#define INTERFACE_A_H
+#ifndef INTERFACE_B_H
+#define INTERFACE_B_H
 
-void function_a(void);
+void function_b(void);
 
 #endif
